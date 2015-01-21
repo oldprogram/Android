@@ -41,3 +41,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+*.png
+*.apk
+*.ap_
+*.dex
+*.classpath
+*.project
+*.prefs
+FloatingWindow/gen/com/phicomm/hu/BuildConfig.java
+FloatingWindow/bin/AndroidManifest.xml
+FloatingWindow/gen/com/phicomm/hu/R.java
+FloatingWindow/proguard.cfg
+*.properties
+FloatingWindow/res/values/strings.xml
+枪林弹雨/bin/AndroidManifest.xml
+枪林弹雨/bin/dexedLibs/annotations-7fd9be63f4fb806cd488a675dfe31c06.jar
+枪林弹雨/bin/jarlist.cache
+枪林弹雨/gen/com/pg/BuildConfig.java
+枪林弹雨/gen/com/pg/R.java
+枪林弹雨/proguard.cfg
+枪林弹雨/res/values/strings.xml
